@@ -1,4 +1,5 @@
-                                                                              📧 Email Automation System using Zapier
+  📧 Email Automation System using Zapier
+
 
 
  📌 Overview
@@ -6,21 +7,26 @@
  The system automatically sends emails when new data is added to a Google Sheet, reducing manual effort and improving workflow efficiency.
 
 
+
 ⚙️ Workflow
 🟢 Input (Google Sheets)
 Data is entered into a Google Sheet (such as name, email, message, or request details).
+
 
 
 🔵 Automation (Zapier Trigger)
 Zapier detects a new row in the Google Sheet and triggers the automation workflow.
 
 
+
 🔴 Output (Gmail)
 An automated email is generated and sent to the specified recipient using Gmail.
 
 
+
 🔄 Workflow Diagram
 Google Sheets → Zapier Trigger → Gmail → Email Sent
+
 
 
 🧰 Tools Used
@@ -30,11 +36,13 @@ Gmail (Email Service)
 
 
 
+
 ✨ Key Features
 Fully automated email sending system
 Trigger-based workflow (no manual action needed)
 Real-time processing of new data entries
 Reduces repetitive manual email tasks
+
 
 
 
