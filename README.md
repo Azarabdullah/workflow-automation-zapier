@@ -1,7 +1,9 @@
-📧 Email Automation System using Zapier
-📌 Overview
-This project demonstrates a no-code automation workflow built using Zapier, Google Sheets, and Gmail.
-The system automatically sends emails when new data is added to a Google Sheet, reducing manual effort and improving workflow efficiency.
+                                                                              📧 Email Automation System using Zapier
+
+
+ 📌 Overview
+ This project demonstrates a no-code automation workflow built using Zapier, Google Sheets, and Gmail.
+ The system automatically sends emails when new data is added to a Google Sheet, reducing manual effort and improving workflow efficiency.
 
 
 ⚙️ Workflow
