@@ -49,10 +49,10 @@ Reduces repetitive manual email tasks
 ## Workflow Explanation
 
 ### 1. Input Data (Google Sheets)
-![Input](google-sheets-input.png)
+![Input](google-sheets-input.png.png)
 
 ### 2. Automation Workflow (Zapier)
-![Workflow](workflow-automation.png)
+![Workflow](workflow-automation.png.png)
 
 ### 3. Final Output (Result)
-![Result](final-result.png)
+![Result](final-result.png.jpeg)
